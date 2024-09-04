@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\MyPong\\MyPong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002B\\MyFPS\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\RAYLIB\\RAYLIB\\SRC\\RAYLIB.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD6EA-92F3-496E-B09F-1E5D8B29248A}|MyPong\\MyPong.vcxproj|D:\\C\u002B\u002B\\MyPong\\MyPong\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB5AD6EA-92F3-496E-B09F-1E5D8B29248A}|MyPong\\MyPong.vcxproj|solutionrelative:Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\MyFPS\\source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\MyFPS\\source.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\MyFPS\\source.cpp",
+              "RelativeToolTip": "..\\..\\MyFPS\\source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T07:35:07.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "raylib.h",
+              "DocumentMoniker": "C:\\raylib\\raylib\\src\\raylib.h",
+              "ToolTip": "C:\\raylib\\raylib\\src\\raylib.h",
+              "ViewState": "AQIAAOQBAAAAAAAAAAAqwMgBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T13:09:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source1.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\MyPong\\MyPong\\Source1.cpp",
+              "RelativeDocumentMoniker": "Source1.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\MyPong\\MyPong\\Source1.cpp",
+              "RelativeToolTip": "Source1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T13:06:46.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

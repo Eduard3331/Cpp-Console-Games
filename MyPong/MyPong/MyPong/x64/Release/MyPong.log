@@ -1,0 +1,22 @@
+﻿  Source1.cpp
+D:\C++\MyPong\MyPong\Source1.cpp(19,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(19,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(19,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(29,12): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(44,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(45,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(46,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(65,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(65,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(65,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(65,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(143,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyPong\MyPong\Source1.cpp(147,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyPong.vcxproj -> D:\C++\MyPong\MyPong\x64\Release\MyPong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

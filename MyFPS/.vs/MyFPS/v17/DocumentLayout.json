@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\MyFPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{676B20F5-721E-4C67-BB3D-6BB3B510764D}|MyFPS.vcxproj|D:\\C\u002B\u002B\\MyFPS\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{676B20F5-721E-4C67-BB3D-6BB3B510764D}|MyFPS.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\MyFPS\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\MyFPS\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T07:37:28.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

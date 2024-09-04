@@ -1,0 +1,15 @@
+﻿  source.cpp
+D:\C++\MyFPS\source.cpp(24,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\MyFPS\source.cpp(90,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(91,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(95,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(96,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(100,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(101,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(105,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(106,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyFPS\source.cpp(149,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\MyFPS\source.cpp(156,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MyFPS.vcxproj -> D:\C++\MyFPS\x64\Debug\MyFPS.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
