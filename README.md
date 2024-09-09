@@ -1,6 +1,6 @@
 # Cpp-Console-Games
 
-Three console games made in C++
+Three simple console games made in C++
 
 ## MyFPS
 
@@ -16,5 +16,5 @@ A snake game with ASCII characters where the food is marked as X and every time 
 
 ## MyPong
 
-A pong game This program uses the [raylib](https://www.raylib.com/) library. Up and down arrow for controls.
+A pong game against a CPU opponent. This program uses the [raylib](https://www.raylib.com/) library. Up and down arrow for controls.
 ![image](https://github.com/user-attachments/assets/c7e052f1-19de-41ff-985c-84ebd6e30861)
