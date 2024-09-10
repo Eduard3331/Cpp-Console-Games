@@ -1,6 +1,7 @@
 # Cpp-Console-Games
 
-Three simple console games made in C++
+Three simple console games made in C++.
+Executable files can be found in the games' respective folder, and for MyPong the executable file is in MyPong/MyPong/x64/Release.
 
 ## MyFPS
 
